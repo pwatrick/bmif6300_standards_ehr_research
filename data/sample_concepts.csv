@@ -1,0 +1,8 @@
+CONCEPT_ID,CONCEPT_NAME,VOCABULARY_ID,CONCEPT_CODE
+35207064,Other hyperlipidemia,ICD10CM,E78.4
+201826,Type 2 diabetes mellitus,SNOMED,44054006
+442793,Diabetic complication,SNOMED,74627003
+35207668,Essential (primary) hypertension,ICD10CM,I10
+35206881,Type 2 diabetes mellitus with unspecified complications,ICD10CM,E11.8
+320128,Essential hypertension,SNOMED,59621000
+432867,Hyperlipidemia,SNOMED,55822004
